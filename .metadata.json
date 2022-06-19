@@ -1,0 +1,10 @@
+[
+  {
+    "package": "zfit",
+    "oncran": true
+  },
+  {
+    "package": "zmisc",
+    "oncran": true
+  }
+]
