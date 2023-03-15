@@ -1,5 +1,9 @@
 [
   {
+    "package": "qst",
+    "oncran": true
+  },
+  {
     "package": "zfit",
     "oncran": true
   },

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "qst"]
+	path = qst
+	url = https://github.com/torfason/qst
+	shallow = true
+	registered = true
 [submodule "zfit"]
 	path = zfit
 	url = https://github.com/torfason/zfit
